@@ -1,2 +1,4 @@
 # academy
 academy
+
+проверка коммита
